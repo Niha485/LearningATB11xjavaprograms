@@ -1,4 +1,4 @@
-package ex_02_Operators;
+package ex_03_Operators;
 
 public class Lab014_logical_operator {
     public static void main(String[] args) {

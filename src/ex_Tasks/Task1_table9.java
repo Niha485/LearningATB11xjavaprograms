@@ -1,6 +1,6 @@
 package ex_Tasks;
 
-public class task1_table9 {
+public class Task1_table9 {
     public static void main(String[] args) {
         int a = 9;
         System.out.printf("%d * 1 = %d\n", a,(a * 1));

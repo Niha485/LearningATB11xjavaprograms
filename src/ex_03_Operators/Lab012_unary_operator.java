@@ -1,4 +1,4 @@
-package ex_02_Operators;
+package ex_03_Operators;
 
 public class Lab012_unary_operator {
     public static void main(String[] args) {
