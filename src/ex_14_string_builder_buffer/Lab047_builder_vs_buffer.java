@@ -1,4 +1,4 @@
-package ex_12_string_builder_buffer;
+package ex_14_string_builder_buffer;
 
 public class Lab047_builder_vs_buffer {
     public static void main(String[] args) {

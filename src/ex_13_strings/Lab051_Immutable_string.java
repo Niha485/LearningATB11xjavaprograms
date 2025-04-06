@@ -1,6 +1,6 @@
-package ex_11_String;
+package ex_13_strings;
 
-public class Lab044_Immutable_string {
+public class Lab051_Immutable_string {
     public static void main(String[] args) {
         String name = "niha";
         name.toUpperCase();

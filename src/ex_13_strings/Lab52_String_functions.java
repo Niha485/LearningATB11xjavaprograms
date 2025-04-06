@@ -1,6 +1,6 @@
-package ex_11_String;
+package ex_13_strings;
 
-public class Lab45_String_functions {
+public class Lab52_String_functions {
         public static void main(String[] args) {
             char c = 'A';
             System.out.println(c);

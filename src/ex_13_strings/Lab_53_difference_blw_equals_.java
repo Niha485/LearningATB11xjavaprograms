@@ -1,6 +1,6 @@
-package ex_11_String;
+package ex_13_strings;
 
-public class Lab46_difference_blw_equals_ {
+public class Lab_53_difference_blw_equals_ {
     public static void main(String[] args) {
             String s1 = "Hello";
             String s4 = "Hello"; // SCP -> 1
